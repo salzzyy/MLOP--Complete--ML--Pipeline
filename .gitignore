@@ -1,5 +1,6 @@
 metrics
 data
+models
 # Logs
 logs
 *.log
